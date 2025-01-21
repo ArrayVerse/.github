@@ -24,7 +24,7 @@ We specialize in developing systems that coordinate multiple AI agents, each wit
 - **User-Centric Development:**  
    Prioritizing accessibility and usability to ensure that our tools are intuitive for everyone.
 
-## 🌟 Core Project: Array
+## 🌟 [Core Project: Array](https://github.com/ArrayVerse/array-app)
 
 **Array** is a multi-agent AI system that processes user queries by leveraging a network of specialized AI agents. Each agent is designed to address specific aspects of a query, delivering deep insights, innovative solutions, and seamless responses.
 
