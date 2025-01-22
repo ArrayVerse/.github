@@ -35,7 +35,7 @@ We welcome enthusiasts, researchers, and creators to join us in shaping the futu
 ### 🌐 Follow Us
 
 - **Twitter:** Stay updated with the latest news and insights by following us on [Twitter](https://twitter.com/ArrayVerse).  
-- **Docs:** Explore detailed documentation for our projects and tools in the [ArrayVerse Docs](https://array-swarm.gitbook.io/array-docs).  
+- **Docs:** Explore detailed documentation for our projects and tools in the [ArrayVerse Docs](https://arrayverse.gitbook.io/array-docs). 
 - **Website:** Learn more about our Core Project [Array](https://arrayverse.io/).  
 
 ## 📜 License
